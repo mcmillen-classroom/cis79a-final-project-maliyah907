@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Fitness</string>
+    <string name="main_menu_create">New Workout</string>
+    <string name="description_label">Description:</string>
+    <string name="name_label">Name:</string>
+    <string name="save">Save</string>
+    <string name="place_create_title">Log a New Workout</string>
+    <string name="create">Create</string>
+    <string name="place_edit_title">Edit</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
+
